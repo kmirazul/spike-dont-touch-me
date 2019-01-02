@@ -1,4 +1,4 @@
-#SPIKE - DON'T TOUCH ME (<a href="https://kmirazul.github.io/spike-dont-touch-me/">JUST PLAY</a>)
+# SPIKE - DON'T TOUCH ME (<a href="https://kmirazul.github.io/spike-dont-touch-me/">JUST PLAY</a>)
 
 **TECHNOLOGY AND FRAMEWORK DETAILS :**
 - JAVASCRIPT, ES6, HTML
