@@ -1,0 +1,9 @@
+
+#IDEs and editors
+/.idea
+/.vscode
+.project
+.classpath
+*.launch
+.settings/
+.idea/misc.xml
