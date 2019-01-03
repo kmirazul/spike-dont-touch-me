@@ -9,6 +9,6 @@
 - COCOS2D DOCUMENT : https://docs.cocos2d-x.org/cocos2d-x/en/
 
 If you want to play game **SPIKE - DON'T TOUCH ME** and do some fun,
-# then just play **<a href="https://kmirazul.github.io/spike-dont-touch-me/">CLICK HERE</a>**
+# then just play <a href="https://kmirazul.github.io/spike-dont-touch-me/">CLICK HERE</a>
 
 
